@@ -4,7 +4,7 @@
 - 👀 I’m interested in **Full Stack Development, Backend Development and Web3**
 - 🌱 I’m currently learning **NoSql Databases, Design Patterns, Microservices and many others!**
 - 📫 How to reach me **bahadirerdogan@outlook.com.tr**
-- 📝 **[Check out my CV for more...](https://drive.google.com/drive/folders/1Y7Ig83XJRHy3qtrx8qapiTHvvK2-3oVp)**
+- 📝 **[Check out my CV for more...](https://drive.google.com/file/d/1Ueaz4ndeHLqNtF1e_8W50xlBq5vp3szh/view?usp=sharing)**
 
   
 #### Connect With Me:
