@@ -8,7 +8,7 @@
 
   
 #### Connect With Me:
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="25"/>](https://www.linkedin.com/in/bahadırerdoğan/))
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="25"/>](https://www.linkedin.com/in/bahadırerdoğan/)
 [<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" width="25"/>](https://github.com/BahadirErdogan)
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="25"/>](https://www.hackerrank.com/BahadirErdogan)
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="25"/>](https://stackoverflow.com/users/20017885/bahadır-erdoğan)
