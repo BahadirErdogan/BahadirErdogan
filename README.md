@@ -1,6 +1,6 @@
 ## 👋 Hi, there I'm Bahadır! I'm **Jr. Software Developer**💻 and **Electrical Engineer**⚡
 - ⭐ I'm **BilgeAdam Boost** Full Stack Developer Training Program Traniee
-- 🔭 I'm currently working at **Bilge Adam Technologies** as **Jr. Software Developer Intern**
+- 🔭 I'm currently working at **AlphaStellar Software Inc.** as **Backend Developer**
 - 👀 I’m interested in **Full Stack Development, Backend Development and Web3**
 - 🌱 I’m currently learning **NoSql Databases, Design Patterns, Microservices and many others!**
 - 📫 How to reach me **bahadirerdogan@outlook.com.tr**
