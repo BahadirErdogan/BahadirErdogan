@@ -1,4 +1,4 @@
-## 👋 Hi, there I'm Bahadır! I'm **Jr. Software Developer**💻 and **Electrical Engineer**⚡
+## 👋 Hi, there I'm Bahadır! I'm **Software Developer**💻 and **Electrical Engineer**⚡
 - ⭐ I'm **BilgeAdam Boost** Full Stack Developer Training Program Traniee
 - 🔭 I'm currently working at **AlphaStellar Software Inc.** as **Backend Developer**
 - 👀 I’m interested in **Full Stack Development, Backend Development and Web3**
